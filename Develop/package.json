@@ -1,0 +1,25 @@
+{
+    "name": "logo-generator",
+    "version": "1.0.0",
+    "description": "A command-line application to generate simple logos",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "jest"
+    },
+    "dependencies": {
+        "inquirer": "^8.2.4"
+    },
+    "devDependencies": {
+        "jest": "^28.1.3"
+    },
+    "keywords": [
+        "logo",
+        "generator",
+        "svg",
+        "inquirer",
+        "jest"
+    ],
+    "author": "CH3RNAND3Z",
+    "license": "MIT"
+}
